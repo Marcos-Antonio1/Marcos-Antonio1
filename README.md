@@ -18,8 +18,7 @@
 </div>
 
 <div align="center">
-  <p align="justify"> &nbsp &nbsp &nbsp &nbsp Eu sou desenvolvedor web FullStack júnior e atualmente estou cursando o último periódo de sistemas para internet, busco novas oportunidades para atuar em projetos 
-  que gerem valor e façam da tecnologia um meio para proporcionar mais comodidade e facilidade na vida das pessoas.
+  <p align="justify"> &nbsp &nbsp &nbsp &nbsp Eu sou desenvolvedor backend júnior e atualmente estou cursando o último periódo de sistemas para internet
   </p>
 </div>
 
